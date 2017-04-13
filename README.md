@@ -1,9 +1,9 @@
-###SpO2-Bluetooth-for-Android
-a sample demo for Berry Medical's Oximeter which have Bluetooth classic module inside.
+# SpO2-Bluetooth-for-Android
+a sample demo for Berry Medical's Oximeters which have Bluetooth classic module inside.
 
-###Protocol Manual
-<https://github.com/zh2x/BCI_Protocol_Demo>
+# Protocol
+<https://github.com/zh2x/BCI_Protocol>
 
-###More Details or Questions.
-send an email to <doe_cn@qq.com>
+# More Details or Questions
+send an email to <zxx@shberrymed.com>
 
